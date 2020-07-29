@@ -167,14 +167,14 @@ export class _Blank extends React.Component {
             onChange={nextChecked => this.setState({ Toggle_21: nextChecked })}
           />
           <Image
-            resizeMode="cover"
+            resizeMode="contain"
             source={{
               uri:
-                "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Sign_Up_2_v2.png"
+                "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/Sign_Up_2_v2_EepJN2M.png"
             }}
             style={{
               width: "100%",
-              height: 200,
+              height: 100,
               marginLeft: 0,
               marginRight: 0,
               marginTop: 0,
@@ -183,7 +183,7 @@ export class _Blank extends React.Component {
               paddingRight: 0,
               paddingTop: 0,
               paddingBottom: 0,
-              overflow: "visible",
+              overflow: "hidden",
               textAlign: "left",
               verticalAlign: "baseline",
               borderColor: "#000000",
@@ -196,6 +196,74 @@ export class _Blank extends React.Component {
               borderRadius: 0
             }}
           />
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "none",
+              textTransform: "none",
+              lineHeight: 24,
+              letterSpacing: 0
+            }}
+          >
+            This is some text. And some more. And more...
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "none",
+              textTransform: "none",
+              lineHeight: 10,
+              letterSpacing: 2
+            }}
+          >
+            This is some text. And some more. And more...
+          </Text>
         </View>
         <View
           style={{
@@ -265,7 +333,316 @@ export class _Blank extends React.Component {
               letterSpacing: 0
             }}
           >
-            This is some text
+            This is some text. And some more. Would you like some more? I need
+            to test line height.
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "overline",
+              textTransform: "none",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            Sample text content
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "line-through",
+              textTransform: "none",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            Sample text content
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "underline",
+              textTransform: "none",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            Sample text content
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "underline overline",
+              textTransform: "none",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            Sample text content
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "none",
+              textTransform: "uppercase",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            Sample text content
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "none",
+              textTransform: "lowercase",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            Sample text content
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "left",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "none",
+              textTransform: "capitalize",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            Sample text content
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "right",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "none",
+              textTransform: "none",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            This is some text. And some more. Would you like some more? I need
+            to test line height.
+          </Text>
+          <Text
+            style={{
+              marginLeft: 0,
+              marginRight: 0,
+              marginTop: 5,
+              marginBottom: 5,
+              paddingLeft: 5,
+              paddingRight: 5,
+              paddingTop: 5,
+              paddingBottom: 5,
+              overflow: "visible",
+              textAlign: "right",
+              verticalAlign: "baseline",
+              fontSize: 12,
+              color: "#000000",
+              backgroundColor: "#ffffff",
+              fontStyle: "normal",
+              fontWeight: "normal",
+              borderColor: "#000000",
+              borderStyle: "solid",
+              borderWidth: 0,
+              borderLeftWidth: 0,
+              borderRightWidth: 0,
+              borderTopWidth: 0,
+              borderBottomWidth: 0,
+              borderRadius: 0,
+              textDecorationLine: "none",
+              textTransform: "none",
+              lineHeight: 12,
+              letterSpacing: 0
+            }}
+          >
+            This is some text. And some more. Would you like some more? I need
+            to test line height.
           </Text>
         </View>
       </View>
