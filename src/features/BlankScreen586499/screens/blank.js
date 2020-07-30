@@ -125,7 +125,7 @@ export class _Blank extends React.Component {
           borderTopWidth: 0,
           borderBottomWidth: 0,
           borderRadius: 0,
-          textDecorationLine: "none",
+          textDecorationLine: "overline",
           textTransform: "none",
           lineHeight: 12,
           letterSpacing: 4
