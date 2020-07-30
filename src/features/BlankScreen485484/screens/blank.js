@@ -74,7 +74,143 @@ export class _Blank extends React.Component {
           overflow: "visible",
           textAlign: "left",
           verticalAlign: "baseline",
-          fontSize: 12,
+          fontSize: 24,
+          color: "#000000",
+          backgroundColor: "#ffffff",
+          fontStyle: "normal",
+          fontWeight: "normal",
+          borderColor: "#000000",
+          borderStyle: "solid",
+          borderWidth: 0,
+          borderLeftWidth: 0,
+          borderRightWidth: 0,
+          borderTopWidth: 0,
+          borderBottomWidth: 0,
+          borderRadius: 0,
+          textDecorationLine: "overline",
+          textTransform: "none",
+          lineHeight: 12,
+          letterSpacing: 0
+        }}
+      >
+        Sample text content
+      </Text>
+      <Text
+        style={{
+          marginLeft: 0,
+          marginRight: 0,
+          marginTop: 5,
+          marginBottom: 5,
+          paddingLeft: 5,
+          paddingRight: 5,
+          paddingTop: 5,
+          paddingBottom: 5,
+          overflow: "visible",
+          textAlign: "left",
+          verticalAlign: "baseline",
+          fontSize: 24,
+          color: "#000000",
+          backgroundColor: "#ffffff",
+          fontStyle: "normal",
+          fontWeight: "normal",
+          borderColor: "#000000",
+          borderStyle: "solid",
+          borderWidth: 0,
+          borderLeftWidth: 0,
+          borderRightWidth: 0,
+          borderTopWidth: 0,
+          borderBottomWidth: 0,
+          borderRadius: 0,
+          textDecorationLine: "line-through",
+          textTransform: "none",
+          lineHeight: 12,
+          letterSpacing: 0
+        }}
+      >
+        Sample text content
+      </Text>
+      <Text
+        style={{
+          marginLeft: 0,
+          marginRight: 0,
+          marginTop: 5,
+          marginBottom: 5,
+          paddingLeft: 5,
+          paddingRight: 5,
+          paddingTop: 5,
+          paddingBottom: 5,
+          overflow: "visible",
+          textAlign: "left",
+          verticalAlign: "baseline",
+          fontSize: 24,
+          color: "#000000",
+          backgroundColor: "#ffffff",
+          fontStyle: "normal",
+          fontWeight: "normal",
+          borderColor: "#000000",
+          borderStyle: "solid",
+          borderWidth: 0,
+          borderLeftWidth: 0,
+          borderRightWidth: 0,
+          borderTopWidth: 0,
+          borderBottomWidth: 0,
+          borderRadius: 0,
+          textDecorationLine: "underline",
+          textTransform: "none",
+          lineHeight: 12,
+          letterSpacing: 0
+        }}
+      >
+        Sample text content
+      </Text>
+      <Text
+        style={{
+          marginLeft: 0,
+          marginRight: 0,
+          marginTop: 5,
+          marginBottom: 5,
+          paddingLeft: 5,
+          paddingRight: 5,
+          paddingTop: 5,
+          paddingBottom: 5,
+          overflow: "visible",
+          textAlign: "left",
+          verticalAlign: "baseline",
+          fontSize: 24,
+          color: "#000000",
+          backgroundColor: "#ffffff",
+          fontStyle: "normal",
+          fontWeight: "normal",
+          borderColor: "#000000",
+          borderStyle: "solid",
+          borderWidth: 0,
+          borderLeftWidth: 0,
+          borderRightWidth: 0,
+          borderTopWidth: 0,
+          borderBottomWidth: 0,
+          borderRadius: 0,
+          textDecorationLine: "underline overline",
+          textTransform: "none",
+          lineHeight: 12,
+          letterSpacing: 0
+        }}
+      >
+        Sample text content
+      </Text>
+      <Text
+        style={{
+          marginLeft: 0,
+          marginRight: 0,
+          marginTop: 5,
+          marginBottom: 5,
+          paddingLeft: 5,
+          paddingRight: 5,
+          paddingTop: 5,
+          paddingBottom: 5,
+          overflow: "visible",
+          textAlign: "left",
+          verticalAlign: "baseline",
+          fontSize: 24,
           color: "#000000",
           backgroundColor: "#ffffff",
           fontStyle: "normal",
@@ -108,7 +244,7 @@ export class _Blank extends React.Component {
           overflow: "visible",
           textAlign: "left",
           verticalAlign: "baseline",
-          fontSize: 12,
+          fontSize: 24,
           color: "#000000",
           backgroundColor: "#ffffff",
           fontStyle: "normal",
@@ -123,6 +259,74 @@ export class _Blank extends React.Component {
           borderRadius: 0,
           textDecorationLine: "none",
           textTransform: "none",
+          lineHeight: 12,
+          letterSpacing: NaN
+        }}
+      >
+        Sample text content
+      </Text>
+      <Text
+        style={{
+          marginLeft: 0,
+          marginRight: 0,
+          marginTop: 5,
+          marginBottom: 5,
+          paddingLeft: 5,
+          paddingRight: 5,
+          paddingTop: 5,
+          paddingBottom: 5,
+          overflow: "visible",
+          textAlign: "left",
+          verticalAlign: "baseline",
+          fontSize: 24,
+          color: "#000000",
+          backgroundColor: "#ffffff",
+          fontStyle: "normal",
+          fontWeight: "normal",
+          borderColor: "#000000",
+          borderStyle: "solid",
+          borderWidth: 0,
+          borderLeftWidth: 0,
+          borderRightWidth: 0,
+          borderTopWidth: 0,
+          borderBottomWidth: 0,
+          borderRadius: 0,
+          textDecorationLine: "none",
+          textTransform: "none",
+          lineHeight: 12,
+          letterSpacing: 4
+        }}
+      >
+        Sample text content
+      </Text>
+      <Text
+        style={{
+          marginLeft: 0,
+          marginRight: 0,
+          marginTop: 5,
+          marginBottom: 5,
+          paddingLeft: 5,
+          paddingRight: 5,
+          paddingTop: 5,
+          paddingBottom: 5,
+          overflow: "visible",
+          textAlign: "left",
+          verticalAlign: "baseline",
+          fontSize: 24,
+          color: "#000000",
+          backgroundColor: "#ffffff",
+          fontStyle: "normal",
+          fontWeight: "normal",
+          borderColor: "#000000",
+          borderStyle: "solid",
+          borderWidth: 0,
+          borderLeftWidth: 0,
+          borderRightWidth: 0,
+          borderTopWidth: 0,
+          borderBottomWidth: 0,
+          borderRadius: 0,
+          textDecorationLine: "none",
+          textTransform: "uppercase",
           lineHeight: 12,
           letterSpacing: 0
         }}
@@ -142,7 +346,7 @@ export class _Blank extends React.Component {
           overflow: "visible",
           textAlign: "left",
           verticalAlign: "baseline",
-          fontSize: 12,
+          fontSize: 24,
           color: "#000000",
           backgroundColor: "#ffffff",
           fontStyle: "normal",
@@ -156,7 +360,41 @@ export class _Blank extends React.Component {
           borderBottomWidth: 0,
           borderRadius: 0,
           textDecorationLine: "none",
-          textTransform: "none",
+          textTransform: "lowercase",
+          lineHeight: 12,
+          letterSpacing: 0
+        }}
+      >
+        Sample text content
+      </Text>
+      <Text
+        style={{
+          marginLeft: 0,
+          marginRight: 0,
+          marginTop: 5,
+          marginBottom: 5,
+          paddingLeft: 5,
+          paddingRight: 5,
+          paddingTop: 5,
+          paddingBottom: 5,
+          overflow: "visible",
+          textAlign: "left",
+          verticalAlign: "baseline",
+          fontSize: 24,
+          color: "#000000",
+          backgroundColor: "#ffffff",
+          fontStyle: "normal",
+          fontWeight: "normal",
+          borderColor: "#000000",
+          borderStyle: "solid",
+          borderWidth: 0,
+          borderLeftWidth: 0,
+          borderRightWidth: 0,
+          borderTopWidth: 0,
+          borderBottomWidth: 0,
+          borderRadius: 0,
+          textDecorationLine: "none",
+          textTransform: "capitalize",
           lineHeight: 12,
           letterSpacing: 0
         }}
